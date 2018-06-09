@@ -1,0 +1,10 @@
+bool login(char *username, char *password);
+void logout();
+void changePassword(LISTusers *lu);
+bool importStatus();
+bool isManager();
+void updateUserInfomation(LISTusers *lu);
+void addUsertoDatabase(LISTusers *lu);
+void importDecentralization(USER *p);
+void decentralizeUsers(LISTusers *lu);
+void changeStatus(LISTusers *lu);
