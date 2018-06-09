@@ -1,5 +1,5 @@
 # Simple Console Library Management
-This is a simple console library management application, which is a project in our "programming techniques" subject.
+This is a simple console library management application, which is a project in our "programming techniques" subject (HCMUS).
 It is two-man project. We use linkedlist, binary file and basic algorithm.
 
 Originally, the code is Vietnamese, i tried to translate it into English so you may see weird output and weird words (my english is not really good), it's still Vietnamese data though.
